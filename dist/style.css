@@ -1,4 +1,4 @@
-#map {
+#map, #panorama {
     width: 100% !important;
     height: 100%;
     position: absolute;
@@ -39,4 +39,16 @@ html, body {
     overflow-y: auto;
     height: 100%;
     background: #eee;
+}
+
+.card{
+    margin: 20px;
+}
+
+#reset-map, #back-to-map{
+    position: absolute;
+    z-index: 10;
+    left: calc(50% - 75px);
+    top: 10px;
+    width: 150px;
 }

@@ -1,0 +1,12 @@
+body{
+    margin: 10px !important;
+}
+
+#diapo{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: 333px;
+}
