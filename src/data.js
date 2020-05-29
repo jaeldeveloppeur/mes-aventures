@@ -54,6 +54,17 @@ const data = [
            lng : 8.717324873496093,
         }
     },
+    {
+        id: 6,
+        imagePath: "images/istanbul.jpg",
+        description: "Marahton d'Istanbul",
+        done: true,
+        link: "#",
+        coordinates: {
+           lat : 41.00744761881147,
+           lng : 28.978495071163664,
+        }
+    },
 ]
 
 export {data}
